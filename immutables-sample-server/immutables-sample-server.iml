@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="immutables-sample-shared" />
+    <orderEntry type="library" name="Maven: org.dominokit:gwt-immutables:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.immutables:value:2.7.1" level="project" />
+    <orderEntry type="library" name="Maven: org.immutables:value:sources:2.7.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:sources:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.gwt:gwt-servlet:2.8.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="module" module-name="immutables-sample-client" scope="RUNTIME" />
+  </component>
+</module>
