@@ -29,5 +29,5 @@ www-test/
 
 
 **/target/**
-.idea/*
+**/.idea/*
 **/*.iml
